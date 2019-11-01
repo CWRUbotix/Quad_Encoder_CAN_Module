@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D? Old Footprint=chip_0603 New Footprint=chip_0603
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=+3V3 Pin=U1-36
+Added Member To Class: ClassName=Sheet1 Member=Component P? conn-4x1_0

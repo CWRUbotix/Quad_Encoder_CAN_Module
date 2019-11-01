@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetP?_3 Pin=U1-30
+Added Pin To Net: NetName=NetP?_2 Pin=U1-31
+Added Pin To Net: NetName=NetD1_2 Pin=U1-45
+Added Pin To Net: NetName=NetR1_2 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=+3V3 Pin=U1-48
+Added Member To Class: ClassName=Sheet1 Member=Component P? conn-4x1_0

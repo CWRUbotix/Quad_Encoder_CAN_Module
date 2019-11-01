@@ -1,0 +1,31 @@
+Added Component: Designator=P?(JST_PHR_5_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=R?(chip_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-PA3F1003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=U1-13
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-44
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Member To Class: ClassName=Sheet1 Member=Component D3 diode_4
+Added Member To Class: ClassName=Sheet1 Member=Component P? conn-5x1_0
+Added Member To Class: ClassName=Sheet1 Member=Component R? res_single

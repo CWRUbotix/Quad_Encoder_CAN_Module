@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Added Component: Designator=C2(can_2_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "UVR1V470MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
